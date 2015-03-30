@@ -1,7 +1,6 @@
 /**
  * Created by klem on 18.12.14.
  */
-/**
 Todos.TodoController = Ember.ObjectController.extend({
     actions: {
         editTodo: function() {
@@ -38,4 +37,3 @@ Todos.TodoController = Ember.ObjectController.extend({
         }
     }.property('model.isCompleted')
 });
-*/
