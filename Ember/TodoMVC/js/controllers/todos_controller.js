@@ -1,6 +1,7 @@
 /**
  * Created by klem on 18.12.14.
  */
+/**
 Todos.TodosController = Ember.ArrayController.extend({
     actions: {
         createTodo: function() {
@@ -50,3 +51,4 @@ Todos.TodosController = Ember.ArrayController.extend({
         return remaining === 1 ? 'item' : 'items';
     }.property('remaining')
 });
+*/
