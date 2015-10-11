@@ -1,0 +1,5 @@
+com\example\ordering\ClassToOrderService.class
+com\example\ordering\Subclass.class
+com\example\DemoApplication.class
+com\example\ordering\ClassToOrderRepository.class
+com\example\ordering\ClassToOrder.class
