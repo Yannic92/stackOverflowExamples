@@ -1,6 +1,5 @@
 package org.example;
 
-public interface InterfaceA {
+public interface InterfaceA extends InterfaceB<String>{
 
-    String sayHello();
 }
